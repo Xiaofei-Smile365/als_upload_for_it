@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="gbk"?>
+	<ALS_Log_Data>
+		<Data Data="Data_List">
+			<PC_Name>SMILE</PC_Name>
+			<PC_IP>172.21.96.1</PC_IP>
+			<PC_MAC>00:04:4b:df:fc:18</PC_MAC>
+			<Result>NG80</Result>
+			<SN>273HCC3B8B001W</SN>
+			<NG_Code>80</NG_Code>
+			<Lux_Hex_0>09</Lux_Hex_0>
+			<Lux_Hex_1>28</Lux_Hex_1>
+			<Lux_Hex_2>01</Lux_Hex_2>
+			<Device_ID>30</Device_ID>
+			<LUX_dark1>84</LUX_dark1>
+			<Test_Site>DA</Test_Site>
+			<LUX_dark2>C3</LUX_dark2>
+			<Test_Time>Data_is_Null</Test_Time>
+			<LUX_bright>0928</LUX_bright>
+			<LUX_dark>84DA</LUX_dark>
+			<Reserved_field_1>Data_is_Null</Reserved_field_1>
+			<Reserved_field_2>Data_is_Null</Reserved_field_2>
+			<Reserved_field_3>Data_is_Null</Reserved_field_3>
+			<Reserved_field_4>Data_is_Null</Reserved_field_4>
+			<Reserved_field_5>Data_is_Null</Reserved_field_5>
+			<Reserved_field_6>Data_is_Null</Reserved_field_6>
+			<Reserved_field_7>Data_is_Null</Reserved_field_7>
+		</Data>
+	</ALS_Log_Data>
